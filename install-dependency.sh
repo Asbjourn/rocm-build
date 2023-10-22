@@ -19,7 +19,7 @@ sudo apt install -y pciutils
 sudo apt install -y mesa-common-dev \
                     dpkg-dev rpm libelf-dev rename liburi-encode-perl \
                     libfile-basedir-perl libfile-copy-recursive-perl libfile-listing-perl libfile-which-perl \
-                    file doxygen
+                    file doxygen g++-12
 
 # 21.rocfft
 sudo apt install -y python3-dev
